@@ -1,0 +1,46 @@
+{
+  "shirts": [
+    { 
+      "id": 1,
+      "name": "tshirt",
+      "styles": ["red", "blue", "white", "black"],
+      "sizes": ["sm", "md", "lg"],
+      "price": 20,
+      "stock": 200
+    },
+    { 
+      "id": 1,
+      "name": "business",
+      "styles": ["red", "blue", "white", "black"],
+      "sizes": ["sm", "md", "lg", "xl"],
+      "price": 30,
+      "stock": 200
+    },
+    { 
+      "id": 1,
+      "name": "long sleeve",
+      "styles": ["red", "blue", "white", "black"],
+      "sizes": ["sm", "md", "lg"],
+      "price": 25,
+      "stock": 200
+    }
+  ],
+  "pants": [
+    {
+      "id": 1,
+      "name": "shorts",
+      "styles": ["red", "blue", "white", "black"],
+      "sizes": ["sm", "md", "lg"],
+      "price": 15,
+      "stock": 200
+    },
+    {
+      "id": 2,
+      "name": "jeans",
+      "styles": ["default", "baggy"],
+      "sizes": ["sm", "md", "lg"],
+      "price": 40,
+      "stock": 200
+    }
+  ]
+}
